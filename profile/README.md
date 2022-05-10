@@ -5,9 +5,9 @@ Started in 2014 (?).
 
 [more description] 
 
-[![](https://img.shields.io/badge/LinkedIn-felix%20made%20me-blue)](https://www.linkedin.com/company//kazoku-it-ab/)
-[![](https://img.shields.io/badge/Contact-hello%40felixmade.me-green)](mailto:info@kazoku.se)
-[![](https://img.shields.io/badge/Website-felixmade.me-red)](https://kazoku.se)
+[![](https://img.shields.io/badge/LinkedIn-Kazoku%20IT-blue)](https://www.linkedin.com/company//kazoku-it-ab/)
+[![](https://img.shields.io/badge/Contact-info%40kazoku.se-green)](mailto:info@kazoku.se)
+[![](https://img.shields.io/badge/Website-kazoku.se-red)](https://kazoku.se)
 
 ## Active projects
 NONE YET :) 
