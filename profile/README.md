@@ -1,7 +1,7 @@
 # Welcome to Kazoku IT 🚀
-Started in 2014 (?).
+Started in 2014.
 
-[some description] 
+All your integration needs, one integration company.
 
 [more description] 
 
@@ -10,7 +10,8 @@ Started in 2014 (?).
 [![](https://img.shields.io/badge/Website-kazoku.se-red)](https://kazoku.se)
 
 ## Active projects
-NONE YET :) 
+[Kazoku.Template.WebApi](https://github.com/kazokuit/Kazoku.Template.WebApi)
+[kazoku.dev](https://github.com/kazokuit/kazoku.dev)
 
 ## Top technologies/frameworks we use
 - .NET
