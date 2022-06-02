@@ -10,9 +10,8 @@ All your integration needs, one integration company.
 [![](https://img.shields.io/badge/Website-kazoku.se-red)](https://kazoku.se)
 
 ## Active projects
-[Kazoku.Template.WebApi](https://github.com/kazokuit/Kazoku.Template.WebApi)
-
-[kazoku.dev](https://github.com/kazokuit/kazoku.dev)
+- [Kazoku.Template.WebApi](https://github.com/kazokuit/Kazoku.Template.WebApi)
+- [kazoku.dev](https://github.com/kazokuit/kazoku.dev)
 
 ## Top technologies/frameworks we use
 - .NET
