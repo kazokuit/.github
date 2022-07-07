@@ -15,6 +15,7 @@ All your integration needs, one integration company.
   - [Kazoku.Dev.Blazor](https://github.com/kazokuit/Kazoku.Dev.Blazor), the front-end built in Blazor.
   - [Kazoku.Dev.Api](https://github.com/kazokuit/Kazoku.Dev.Api), the back-end built as a ASP.NET API. 
   - [Kazoku.Dev.Database](https://github.com/kazokuit/Kazoku.Dev.Database), SQL database wih databaase first design.
+- [Kazoku.Common.Models](https://github.com/kazokuit/Kazoku.Common.Models), NuGet package that handles all the common models.
 
 ## Top technologies/frameworks we use
 - ASP.NET
