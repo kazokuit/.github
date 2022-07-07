@@ -10,11 +10,15 @@ All your integration needs, one integration company.
 [![](https://img.shields.io/badge/Website-kazoku.se-red)](https://kazoku.se)
 
 ## Active projects
-- [Kazoku.Template.WebApi](https://github.com/kazokuit/Kazoku.Template.WebApi)
-- [kazoku.dev](https://github.com/kazokuit/kazoku.dev)
+- [Kazoku.Template.Api](https://github.com/kazokuit/Kazoku.Template.Api), template AP.NET API.
+- **Kazoku.Dev**, new website to display all the open-source projects we are working on.
+  - [Kazoku.Dev.Blazor](https://github.com/kazokuit/Kazoku.Dev.Blazor), the front-end built in Blazor.
+  - [Kazoku.Dev.Api](https://github.com/kazokuit/Kazoku.Dev.Api), the back-end built as a ASP.NET API. 
+  - [Kazoku.Dev.Database](https://github.com/kazokuit/Kazoku.Dev.Database), SQL database wih databaase first design.
 
 ## Top technologies/frameworks we use
-- .NET
+- ASP.NET
+- Blazor WAP/Server
 
 ## Profile stats
 ![](https://komarev.com/ghpvc/?username=kazokuit&color=brightgreen&label=Profile+views)
