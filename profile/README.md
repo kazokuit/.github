@@ -19,7 +19,7 @@ All your integration needs, one integration company.
 
 ## Top technologies/frameworks we use
 - ASP.NET
-- Blazor WAP/Server
+- Blazor WASM/Server
 
 ## Profile stats
 ![](https://komarev.com/ghpvc/?username=kazokuit&color=brightgreen&label=Profile+views)
