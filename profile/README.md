@@ -19,6 +19,7 @@ All your integration needs, one integration company.
 
 ## Top technologies/frameworks we use
 - ASP.NET
+- Azure
 - Blazor WASM/Server
 
 ## Profile stats
