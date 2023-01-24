@@ -11,7 +11,7 @@ All your integration needs, one integration company.
 
 ## Active projects
 - [Kazoku.Template.Api](https://github.com/kazokuit/Kazoku.Template.Api), template AP.NET API.
-- [Kazoku.Event](https://github.com/kazokuit/Kazoku.Event)
+- [Kazoku.Event](https://github.com/kazokuit/Kazoku.Event), event booking site for internal and external events within Kazoku.
 - **Kazoku.Dev**, new website to display all the open-source projects we are working on.
   - [Kazoku.Dev.Blazor](https://github.com/kazokuit/Kazoku.Dev.Blazor), the front-end built in Blazor.
   - [Kazoku.Dev.Api](https://github.com/kazokuit/Kazoku.Dev.Api), the back-end built as a ASP.NET API. 
